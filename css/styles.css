@@ -114,18 +114,16 @@ a:hover {
   margin: 100px 0;
 }
 
-.bottom-container{
+.bottom-container {
   background-color: #66bfbf;
   margin: 100px 0 0 0;
   padding: 50px 0 50px;
-
 }
 
 .skill-row {
   width: 50%;
   margin: 100px auto 100px auto;
   text-align: center;
-
 }
 
 /*
